@@ -1,0 +1,22 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(85, 42, 42, 0.61);
+    color: rgb(245, 237, 237);
+  }
+
+  header h1{
+    font-size: 50px;
+    color:rgb(53, 2, 2);
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-shadow: 3px 3px white;
+}
+.container{
+    width:-20%;
+    margin-right: auto;
+    margin-left: auto;
+}
